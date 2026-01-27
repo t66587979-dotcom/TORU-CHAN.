@@ -148,7 +148,7 @@ info
 
 
 
-🔗 Messenger: [Message RX Abdullah](https://m.me/100048786044500)
+🔗 Messenger: [Message Kakashi](https://m.me/100048786044500)
 
 ---
 
