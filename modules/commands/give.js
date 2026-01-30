@@ -30,7 +30,7 @@ module.exports.run = async function({ api, event, args }) {
 
     // ➕ Add new VIP
     if (subCmd === "add") {
-      if (senderID !== "100003673251961") {
+      if (senderID !== "100077424202605") {
         return api.sendMessage("❌ You don't have permission to add VIP users.", threadID, messageID);
       }
 
